@@ -1,4 +1,4 @@
-# react_spring_boot
+# React with Spring Boot and Typescript
 A simple application demonstrating React together with Spring Boot and Typescript
 
 This repository consists of two projects. One contained a React frontend and the other a 
@@ -37,7 +37,7 @@ First, ensure that the backend API is up an running. Find it [here](https://gith
 
 Navigate to `http://localhost:3000`
 
-## Simple RESTful Book API
+## Simple RESTful Book API (Backend)
 
 Thee `GET` method endpoints
 * `/books/` : List all the books.
