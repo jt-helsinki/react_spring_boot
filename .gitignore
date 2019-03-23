@@ -1,0 +1,59 @@
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+################
+# Common
+################
+
+/build
+/dist
+/tmp
+/temp
+
+################
+# Javascript / Typescript
+################
+
+# NPM / Yarn 
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+
+# Generated Frontend stuff
+*.css
+
+################
+# Java
+################
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn
+target
+
+### Spring tools suite (STS) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache

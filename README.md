@@ -1,8 +1,9 @@
 # React with Spring Boot and Typescript
 A simple application demonstrating React together with Spring Boot and Typescript
 
-This repository consists of two projects. One containing a React frontend and the other a 
-Spring Boot backend.
+This repository consists of two projects.
+* React frontend
+* Spring Boot backend.
 
 
 ## React Books (Front End)
